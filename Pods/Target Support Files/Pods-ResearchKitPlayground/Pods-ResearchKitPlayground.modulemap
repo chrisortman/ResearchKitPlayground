@@ -1,0 +1,6 @@
+framework module Pods_ResearchKitPlayground {
+  umbrella header "Pods-ResearchKitPlayground-umbrella.h"
+
+  export *
+  module * { export * }
+}
